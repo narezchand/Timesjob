@@ -32,7 +32,6 @@
 				<form:option value="2" label="USA" />
 				<form:option value="3" label="UK" />
 				<form:option value="4" label="Australia" />
-				<form:option value="5" label="Pakistan" />
 			</form:select></td>
 		</tr>
 		<tr>
